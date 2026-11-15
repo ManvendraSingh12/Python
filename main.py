@@ -64,7 +64,7 @@ def delete_note():
     try:
         note_num = int(input("Delete note number: ").strip())
     except ValueError:
-        print("Invalid input.")
+        print("Note number not found.")
         return
         
     notes = load_notes()
