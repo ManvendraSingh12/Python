@@ -94,4 +94,8 @@ def main():
             print("Invalid option.")
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 20cac43d14b8eeb1a0f49d78770e6f0fe429c065
